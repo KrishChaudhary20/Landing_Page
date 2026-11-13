@@ -17,9 +17,9 @@ A responsive, single-page marketing site for **FlowPilot**, a fictional project 
 
 | Tool | Purpose |
 | --- | --- |
-| [React 19](https://react.dev) | UI library |
+| [React](https://react.dev) | UI library |
 | [Vite](https://vite.dev) | Dev server and build tool |
-| [Tailwind CSS 4](https://tailwindcss.com) | Styling, via the `@tailwindcss/vite` plugin |
+| [Tailwind CSS](https://tailwindcss.com) | Styling, via the `@tailwindcss/vite` plugin |
 | [lucide-react](https://lucide.dev) | Icon set |
 | [ESLint](https://eslint.org) | Linting (with React Hooks and React Refresh rules) |
 
