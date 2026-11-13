@@ -1,6 +1,6 @@
-# FlowPilot Landing Page
+# Landing Page
 
-A responsive, single-page marketing site for **FlowPilot**, a fictional project and team-collaboration tool. Built with React, Vite, and Tailwind CSS.
+A responsive, single-page marketing site for **Landing Page**, a fictional project and team-collaboration tool. Built with React, Vite, and Tailwind CSS.
 
 ## Features
 
